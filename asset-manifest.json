@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/insolesia.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/insolesia.github.io/static/js/main.1bf5c63f.js",
+    "index.html": "/insolesia.github.io/index.html",
+    "main.073c9b0a.css.map": "/insolesia.github.io/static/css/main.073c9b0a.css.map",
+    "main.1bf5c63f.js.map": "/insolesia.github.io/static/js/main.1bf5c63f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1bf5c63f.js"
+  ]
+}
